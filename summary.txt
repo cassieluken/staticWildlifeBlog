@@ -1,0 +1,8 @@
+Layout: index.html - homepage
+aboutme.html - simple about me page
+blogposts.html - static blog page with read more and read less capability in the recent post section. 
+contactme.html - simple modal button that pulls upt contact form 
+
+The topic of this blog/site is revolved around wildlife and human-animal interactions. 
+
+Bootstrap, HTML/CSS, Javascript & Vs code Used
